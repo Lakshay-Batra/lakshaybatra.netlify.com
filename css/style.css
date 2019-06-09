@@ -1,0 +1,21 @@
+.box-1
+{
+    background-color: teal;
+    color: white;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0%;
+}
+#profile-pic{
+    border-radius: 50%;
+    align-content: center;
+   /* height: 100px;
+    width: 100px; */
+    box-shadow: black 2px 5px 5px;
+}
